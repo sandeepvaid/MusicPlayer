@@ -1515,11 +1515,10 @@ figure {
 
 .song-played{
     display: none;
-    /*width: 100%;*/
+    width: 100%;
     position: fixed;
     justify-content: space-around;
-    top: 39rem;
-    left: .25rem;
+    bottom: 0;
     height: 80px;
     background-color: #01101D;
     z-index: 6;
